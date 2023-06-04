@@ -7,3 +7,6 @@ JunSeop Alogolithm study book
 [Beakjoon Online Judge](https://www.acmicpc.net/)
 
 각 파일은 문제 번호에 맞도록 작성
+
+## LeetCode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/LoperLee)](https://leetcode.com/LoperLee)
